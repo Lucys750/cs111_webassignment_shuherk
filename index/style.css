@@ -1,0 +1,25 @@
+html {
+ p {
+   color: purple;
+   font-size: 18px;
+ }
+  body {
+    background-color: #3a88fe;
+  }
+   h1,h2,h3 { color: green; 
+             font-family: "Arial"}
+          
+  
+  
+  li { font-family: "Comic Sans MS";
+    color: pink}
+  
+  
+  
+}
+   /* added color and font to list
+      
+      
+      
+          }
+}
